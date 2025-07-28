@@ -15,9 +15,8 @@ A simple and straightforward score-keeping application built with Flutter. This 
 
 ## 📸 Screenshot
 
-*(It's a great idea to add a screenshot of your app here!)*
 
-![App Screenshot]([https://i.imgur.com/example.png](https://github.com/Foxasdf/Flutter_basketball_points_counter/blob/main/Screenshot.png))
+![App Screenshot]([https://i.imgur.com/example.png](https://github.com/Foxasdf/Flutter_basketball_points_counter/blob/main/Screenshot.png)
 
 ---
 
@@ -40,7 +39,7 @@ Ensure you have the Flutter SDK installed on your system. For installation guida
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-project-name.git](https://github.com/your-username/your-project-name.git)
+    git clone https://github.com/Foxasdf/Flutter_basketball_points_counter.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
