@@ -16,7 +16,7 @@ A simple and straightforward score-keeping application built with Flutter. This 
 ## 📸 Screenshot
 
 
-![App Screenshot]([https://i.imgur.com/example.png](https://github.com/Foxasdf/Flutter_basketball_points_counter/blob/main/Screenshot.png)
+![App Screenshot](https://github.com/Foxasdf/Flutter_basketball_points_counter/blob/main/Screenshot.png)
 
 ---
 
